@@ -15,7 +15,7 @@ class Elemento extends Model
        'baja',
        'fechabaja',
         'motivobaja',
-        'motivobaja',
+        'codigobarra',
        'ubicacions_id',
 
     ];
